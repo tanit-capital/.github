@@ -1,4 +1,4 @@
-<img src=../images/Asset%205-8-small.png>
+<img src='../images/Asset%205-8-small.png'>
 
 
 ## Who we are ?
