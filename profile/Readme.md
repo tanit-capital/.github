@@ -1,4 +1,4 @@
-<img src='../images/Asset%205-8-small.png'>
+<img src='https://github.com/tanit-capital/.github/blob/main/images/Asset%205-8-small.png'>
 
 
 ## Who we are ?
