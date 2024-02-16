@@ -1,2 +1,3 @@
-<img src=“https://github.com/tanit-capital/.github/blob/main/Logo-100.jpg”>
-Tanit Capital is an investment and trading software start up. 
+<img src=../Logo-100.jpg>
+
+Tanit Capital is a leading investment and trading software provider start up. 
