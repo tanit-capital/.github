@@ -1,8 +1,9 @@
 <img src='https://github.com/tanit-capital/.github/blob/main/images/Asset%205-8-small.png'>
 
 
-## Who we are ?
-Tanit Capital is a leading investment and trading software provider start up. 
+## About Us
+
+Tanit Capital is an innovative investment company specializing in quantitative investing and trading. Our mission is to drive value and growth through data-driven approaches and cutting-edge technology.
 
 ## Contribution
 All contributions to our opensource projects are welcome.
