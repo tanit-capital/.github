@@ -8,5 +8,5 @@ Tanit Capital is an innovative investment company specializing in quantitative i
 ## Contribution
 All contributions to our opensource projects are welcome.
 
-## Liscence
+## License
 All public Software in this org is released under the GPLv3 License.
